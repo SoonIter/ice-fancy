@@ -2,13 +2,13 @@
   "name": "@ice-fancy/shared",
   "version": "1.0.0",
   "description": "",
+  "author": "SoonIter",
+  "license": "MIT",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "typescript": "^4.7.4"
-  },
-  "author": "SoonIter",
-  "license": "MIT"
+  }
 }
